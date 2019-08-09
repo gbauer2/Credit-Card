@@ -6,8 +6,8 @@
 //  Copyright © 2019 Lenard Howell. All rights reserved.
 //
 
-//TODO: Show Alert and/or terminate program on certain errors. (handleError)
-
+// TODO: Show Alert and/or terminate program on certain errors. (handleError)
+// Message for Len HELLO LEN
 import Cocoa
 
 //MARK:- Global Variables
